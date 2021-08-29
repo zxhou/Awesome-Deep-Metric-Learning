@@ -24,6 +24,16 @@
 *Filip Radenovic, Ahmet Iscen, Giorgos Tolias, Yannis Avrithis, Ondrej Chum*  <br>
 [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Radenovic_Revisiting_Oxford_and_CVPR_2018_paper.pdf)]
 
+### ***Landmarks***
+**Neural codes for image retrieval(ECCV-14)** <br>
+*Artem Babenko,  Anton Slesarev, Alexandr Chigorin, Victor Lempitsky* <br>
+[[paper](https://link.springer.com/content/pdf/10.1007/978-3-319-10590-1_38.pdf)]
+
+### ***Landmarks-clean***
+**Deep Image Retrieval: Learning Global Representations for Image Search(ECCV-16)** <br>
+*Albert Gordo, Jon Almazan, Jerome Revaud, Diane Larlus* <br>
+[[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-319-46466-4_15.pdf)]
+
 ### ***Google Landmarks***
 **Large-Scale Image Retrieval with Attentive Deep Local Features(ICCV-17)** <br>
 *Hyeonwoo Noh, Andre Araujo, Jack Sim, Tobias Weyand, Bohyung Han* <br>
