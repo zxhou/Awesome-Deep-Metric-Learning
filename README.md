@@ -26,3 +26,11 @@
 
 [[paper](https://link.springer.com/content/pdf/10.1007/978-3-540-88682-2_24.pdf)]
 
+<br>
+
+**Revisiting Oxford and Paris: Large-Scale Image Retrieval Benchmarking(CVPR-18: ROxf and RPar)**
+
+*Filip Radenovic, Ahmet Iscen, Giorgos Tolias, Yannis Avrithis, Ondrej Chum*
+
+[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Radenovic_Revisiting_Oxford_and_CVPR_2018_paper.pdf)]
+
