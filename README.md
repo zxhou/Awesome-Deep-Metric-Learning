@@ -44,3 +44,5 @@
 *Tobias Weyand, Andre Araujo, Bingyi Cao,  Jack Sim* <br>
 [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Weyand_Google_Landmarks_Dataset_v2_-_A_Large-Scale_Benchmark_for_Instance-Level_CVPR_2020_paper.pdf)]
 
+e
+
