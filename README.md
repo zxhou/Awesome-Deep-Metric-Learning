@@ -2,6 +2,15 @@
 
 ***This repo contains most of the papers for image retrieval.***
 
+## Papers
+
+### **2021**
+
+**DOLG: Single-Stage Image Retrieval with Deep Orthogonal Fusion of Local and Global Features(ICCV-21)** <br>
+*Min Yang, Dongliang He, Miao Fan, Baorong Shi, Xuetong Xue, Fu Li, Errui Ding, Jizhou Huang* <br>
+**Datasets: GLDv2, Roxf and Rpar** <br>
+[[paper](https://arxiv.org/pdf/2108.02927.pdf)]
+
 ## Datasets
 
 ### ***Oxford buildings***
@@ -39,7 +48,7 @@
 *Hyeonwoo Noh, Andre Araujo, Jack Sim, Tobias Weyand, Bohyung Han* <br>
 [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Noh_Large-Scale_Image_Retrieval_ICCV_2017_paper.pdf)]
 
-### ***Google Landmarks Dataset v2***
+### ***Google Landmarks Dataset v2 (GLDv2)***
 **Google Landmarks Dataset v2 A Large-Scale Benchmark for Instance-Level Recognition and Retrieval(CVPR-20)** <br>
 *Tobias Weyand, Andre Araujo, Bingyi Cao,  Jack Sim* <br>
 [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Weyand_Google_Landmarks_Dataset_v2_-_A_Large-Scale_Benchmark_for_Instance-Level_CVPR_2020_paper.pdf)]
