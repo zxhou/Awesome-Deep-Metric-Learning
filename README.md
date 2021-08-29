@@ -24,3 +24,8 @@
 *Filip Radenovic, Ahmet Iscen, Giorgos Tolias, Yannis Avrithis, Ondrej Chum*  <br>
 [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Radenovic_Revisiting_Oxford_and_CVPR_2018_paper.pdf)]
 
+### ***Google Landmarks 18 (GL18)***
+**Large-Scale Image Retrieval with Attentive Deep Local Features(ICCV-17)** <br>
+*Hyeonwoo Noh, Andre Araujo, Jack Sim, Tobias Weyand, Bohyung Han* <br>
+[[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Noh_Large-Scale_Image_Retrieval_ICCV_2017_paper.pdf)]
+
