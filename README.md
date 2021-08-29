@@ -4,19 +4,23 @@
 
 ## Datasets
 
-**Object retrieval with large vocabularies and fast spatial matching(CVPR-07: Oxford buildings)** <br>
+### ***Oxford buildings***
+**Object retrieval with large vocabularies and fast spatial matching(CVPR-07)** <br>
 *James Philbin, Ondrej Chum, Michael Isard, Josef Sivic, Andrew Zisserman* <br>
 [[paper](http://www.michaelisard.com/pubs/philbin07.pdf)]
 
-**Lost in quantization: Improving particular object retrieval in large scale image databases(CVPR-08: Paris)**  <br>
+### ***Paris***
+**Lost in quantization: Improving particular object retrieval in large scale image databases(CVPR-08)**  <br>
 *James Philbin, Ondrej Chum, Michael Isard, Josef Sivic, Andrew Zisserman*  <br>
 [[paper](https://d1wqtxts1xzle7.cloudfront.net/33424505/philbin08-with-cover-page-v2.pdf?Expires=1630245876&Signature=RZRnbUYWcqplGfQQGqJj8dffPujE23cIqiyubH8BkftR5rFWcOOc6CvkjJbMqYHxqxSh21akTeHOsyBfJy5JS5ZXrafNBzbwCAsxeYACTMQ6zn5oASiepxCzZdQYaH9l-2DSzdZoZTs4LzdPUEFVcw1ew19fYj~BialW4JP5TJ-gEnz~3mFSbfido-QvTDXVjDoFFIFpN8zdPV1SQJFLIUQ4um9H9Q~a~W50xJZtJqy~FbgL-fx9PYKqORGY56RjBVQW-yBvxLvM5rSPdgEF55h9aB0bK4VUuzcRWVm9sU2lQEoQwIHYFXntt~rZwREtW-fzgts~3gT-1NjNhtr9qA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)]
 
-**Hamming embedding and weak geometric consistency for large scale image search(ECCV-08: Holidays)** <br>
+### ***Holidays***
+**Hamming embedding and weak geometric consistency for large scale image search(ECCV-08)** <br>
 *Herve Jegou, Matthijs Douze, and Cordelia Schmid*  <br>
 [[paper](https://link.springer.com/content/pdf/10.1007/978-3-540-88682-2_24.pdf)]
 
-**Revisiting Oxford and Paris: Large-Scale Image Retrieval Benchmarking(CVPR-18: ROxf and RPar)**  <br>
+### ***ROxf and RPar***
+**Revisiting Oxford and Paris: Large-Scale Image Retrieval Benchmarking(CVPR-18)**  <br>
 *Filip Radenovic, Ahmet Iscen, Giorgos Tolias, Yannis Avrithis, Ondrej Chum*  <br>
 [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Radenovic_Revisiting_Oxford_and_CVPR_2018_paper.pdf)]
 
