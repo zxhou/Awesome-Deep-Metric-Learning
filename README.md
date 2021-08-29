@@ -11,6 +11,18 @@
 **Datasets: GLDv2, Roxf and Rpar** <br>
 [[paper](https://arxiv.org/pdf/2108.02927.pdf)]
 
+**Deep Relational Metric Learning(ICCV-21)** <br>
+*Wenzhao Zheng, Borui Zhang, Jiwen Lu, Jie Zhou* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](https://arxiv.org/pdf/2108.10026.pdf)]
+[[code](https://github.com/zbr17/DRML)]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
 ## Datasets
 
 ### ***Oxford buildings***
@@ -53,3 +65,22 @@
 *Tobias Weyand, Andre Araujo, Bingyi Cao,  Jack Sim* <br>
 [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Weyand_Google_Landmarks_Dataset_v2_-_A_Large-Scale_Benchmark_for_Instance-Level_CVPR_2020_paper.pdf)]
 
+### ***CUB-200-2011***
+**The Caltech-UCSD Birds-200-2011 Dataset** <br>
+*Catherine Wah, , Steve Branson, Peter Welinder, Pietro Perona, Serge Belongie* <br>
+[[paper](http://www.vision.caltech.edu/visipedia/papers/CUB_200_2011.pdf)]
+
+### ***Cars196***
+**3D Object Representations for Fine-Grained Categorization(ICCVW-13)** <br>
+*Jonathan Krause, Michael Stark, Jia Deng, and Li Fei-Fei* <br>
+[[paper](https://www.cv-foundation.org//openaccess/content_iccv_workshops_2013/W19/papers/Krause_3D_Object_Representations_2013_ICCV_paper.pdf)]
+
+### ***Stanford Online Products (SOP)***
+**Deep Metric Learning via Lifted Structured Feature Embedding(CVPR-16)** <br>
+*Hyun Oh Song, Yu Xiang, Stefanie Jegelka, Silvio Savarese* <br>
+[[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Song_Deep_Metric_Learning_CVPR_2016_paper.pdf)]
+
+### ******
+**** <br>
+** <br>
+[[paper]()]
