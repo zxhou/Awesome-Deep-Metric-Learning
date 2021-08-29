@@ -1,6 +1,6 @@
-# Awesome Landmark Image Retrieval
+# Awesome Image Retrieval
 
-***This repo contains most of the papers for landmark image retrieval.***
+***This repo contains most of the papers for image retrieval.***
 
 ## Datasets
 
