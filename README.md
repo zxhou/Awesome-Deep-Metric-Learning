@@ -111,17 +111,16 @@
 [[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-58571-6_17.pdf)]
 [[code](https://github.com/dvl-tum/group_loss)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**DiVA: Diverse Visual Feature Aggregation for Deep Metric Learning(ECCV-20)** <br>
+*Timo Milbich, Karsten Roth, Homanga Bharadhwaj, Samarth Sinha, Yoshua Bengio, Bjorn Ommer, Joseph Paul Cohen* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-58598-3_35.pdf)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Smooth-AP: Smoothing the Path Towards Large-Scale Image Retrieval(ECCV-20)** <br>
+*Andrew Brown, Weidi Xie, Vicky Kalogeiton, Andrew Zisserman* <br>
+**Datasets: Stanford Online Products, VehicleID, INaturalist, VGGFace2, IJB-C** <br>
+[[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-58545-7_39.pdf)]
+[[code](https://github.com/Andrew-Brown1/Smooth_AP)]
 
 **** <br>
 ** <br>
@@ -326,6 +325,26 @@
 **Deep Relative Distance Learning: Tell the Difference Between Similar Vehicles(CVPR-16)** <br>
 *Hongye Liu, Yonghong Tian, Yaowei Wang, Lu Pang,  Tiejun Huang* <br>
 [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_Deep_Relative_Distance_CVPR_2016_paper.pdf)]
+
+### ***INaturalist***
+**The iNaturalist Species Classification and Detection Dataset(CVPR-18)** <br>
+*Grant Van Horn, Oisin Mac Aodha, Yang Song, Yin Cui, Chen Sun, Alex Shepard, Hartwig Adam, Pietro Perona, Serge Belongie* <br>
+[[paper](https://arxiv.org/abs/1707.06642)]
+
+### ***VGGFace2***
+**VGGFace2: A dataset for recognising faces across pose and age(F&G-18)** <br>
+*Qiong Cao, Li Shen, Weidi Xie, Omkar M. Parkhi, Andrew Zisserman* <br>
+[[paper](https://arxiv.org/abs/1710.08092)]
+
+### ***IJB-C***
+**IARPA Janus Benchmark – C: Face Dataset and Protocol(ICB-18)** <br>
+*Brianna Maze, Jocelyn Adams, James A. Duncan, Nathan Kalka, Tim Miller, Charles Otto, Anil K. Jain, W. Tyler Niggel, Janet Anderson, Jordan Cheney, Patrick Grother* <br>
+[[paper](http://biometrics.cse.msu.edu/Publications/Face/Mazeetal_IARPAJanusBenchmarkCFaceDatasetAndProtocol_ICB2018.pdf)]
+
+### ******
+**** <br>
+** <br>
+[[paper]()]
 
 ### ******
 **** <br>
