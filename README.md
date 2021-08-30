@@ -97,6 +97,86 @@
 **Datasets: Google Landmarks, ROxf and RPar** <br>
 [[paper](https://link.springer.com/article/10.1007%2Fs11263-021-01444-0)]
 
+### **2020**
+
+**A Unifying Mutual Information View of Metric Learning: Cross-Entropy vs. Pairwise Losses(ECCV-20)** <br>
+*Malik Boudiaf, Jérôme Rony, Imtiaz Masud Ziko, Eric Granger, Marco Pedersoli, Pablo Piantanida, Ismail Ben Ayed* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products, In-Shop Clothes** <br>
+[[paper](https://link.springer.com/chapter/10.1007%2F978-3-030-58539-6_33)]
+[[code](https://github.com/jeromerony/dml_cross_entropy)]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
 **** <br>
 ** <br>
 **Datasets: ** <br>
