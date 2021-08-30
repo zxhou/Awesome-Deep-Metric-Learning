@@ -2,7 +2,7 @@
 
 ***This repo contains most of the papers for image retrieval.***
 
-***Key Words: Image Retrieval, Metric Learning***
+***Key Words: Image Retrieval, Metric Learning, Image Search***
 
 ***Conference and Journal: CVPR, ICCV, ECCV, ICML, ICLR, TPAMI, TIP, NIPS, IJCAI, IJCV, AAAI***
 
