@@ -41,6 +41,53 @@
 **Datasets: CUB-200-2011, Cars196, Fashion200k** <br>
 [[paper](https://arxiv.org/pdf/2011.10269.pdf)]
 
+**Embedding Transfer with Label Relaxation for Improved Metric Learning(CVPR-21)** <br>
+*Sungyeon Kim, Dongwon Kim, Minsu Cho, Suha Kwak* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](https://arxiv.org/pdf/2103.14908.pdf)]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
 **** <br>
 ** <br>
 **Datasets: ** <br>
