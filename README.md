@@ -4,7 +4,7 @@
 
 ***Key Words: Image Retrieval, Metric Learning, Image Search***
 
-***Conference and Journal: CVPR, ICCV, ECCV, ICML, NIPS, IJCAI, AAAI, TPAMI, TIP, IJCV***
+***Conference and Journal: CVPR, ICCV, ECCV, ICML, ICLR, NIPS, IJCAI, AAAI, TPAMI, TIP, IJCV***
 
 ## Papers
 
@@ -56,9 +56,89 @@
 
 **Learning Intra-Batch Connections for Deep Metric Learning(ICML-21)** <br>
 *Jenny Seidenschwarz, Ismail Elezi,  Laura Leal-Taixe* <br>
-**Datasets: CUB-200-2011, Cars196, Stanford Online Products, DeepFashion** <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products, In-Shop Clothes** <br>
 [[paper](http://proceedings.mlr.press/v139/seidenschwarz21a/seidenschwarz21a.pdf)]
 [[code](https://github.com/dvl-tum/intra_batch)]
+
+**Deep Metric Learning with Graph Consistency(AAAI-21)** <br>
+*Binghui Chen, Pengyu Li, Zhaoyi Yan, Biao Wang, Lei Zhang* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products, In-Shop Clothes** <br>
+[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16182)]
+
+**Deep Metric Learning with Self-Supervised Ranking(AAAI-21)** <br>
+*Zheren Fu, Yan Li, Zhendong Mao, Quan Wang, Yongdong Zhang* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16226)]
+
+**Proxy Synthesis: Learning with Synthetic Classes for Deep Metric Learning(AAAI-21)** <br>
+*Geonmo Gu, Byungsoo Ko, Han-Gyu Kim* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products, In-Shop Clothes** <br>
+[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16236)]
+[[code](https://github.com/navervision/proxy-synthesis)]
+
+**Multi-level Distance Regularization for Deep Metric Learning(AAAI-21)** <br>
+*Yonghyun Kim, Wonpyo Park* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products, In-Shop Clothes** <br>
+[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16277)]
+
+**Hardness-Aware Deep Metric Learning(TPAMI-21)** <br>
+*Wenzhao Zheng, Jiwen Lu, Jie Zhou* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products, In-Shop Clothes** <br>
+[[paper](https://ieeexplore.ieee.org/document/9035438)]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
 
 **** <br>
 ** <br>
@@ -158,15 +238,15 @@
 *Xintong Han, Zuxuan Wu, Phoenix X. Huang, Xiao Zhang, Menglong Zhu, Yuan Li, Yang Zhao, Larry S. Davis* <br>
 [[paper](https://arxiv.org/pdf/1708.01311.pdf)]
 
-### ***DeepFashion***
+### ***In-Shop Clothes***
 **DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations(CVPR-16)** <br>
 *Ziwei Liu, Ping Luo, Shi Qiu, Xiaogang Wang, Xiaoou Tang* <br>
 [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf)]
 
-### ******
-**** <br>
-** <br>
-[[paper]()]
+### ***VehicleID***
+**Deep Relative Distance Learning: Tell the Difference Between Similar Vehicles(CVPR-16)** <br>
+*Hongye Liu, Yonghong Tian, Yaowei Wang, Lu Pang,  Tiejun Huang* <br>
+[[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_Deep_Relative_Distance_CVPR_2016_paper.pdf)]
 
 ### ******
 **** <br>
