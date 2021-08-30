@@ -170,17 +170,17 @@
 **Datasets: DeepFashion2, Plagiarized Fashion Dataset** <br>
 [[paper](https://ieeexplore.ieee.org/document/9156520)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Distance Metric Learning with Joint Representation Diversification(ICML-20)** <br>
+*Xu Chu, Yang Lin, Yasha Wang, Xiting Wang, Hailong Yu, Xin Gao, Qi Tong* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](http://proceedings.mlr.press/v119/chu20a.html)]
+[[code](https://github.com/YangLin122/JRD)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Revisiting Training Strategies and Generalization Performance in Deep Metric Learning(ICML-20)** <br>
+*Karsten Roth,  Timo Milbich, Samarth Sinha, Prateek Gupta, Bjorn Ommer, Joseph Paul Cohen* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](http://proceedings.mlr.press/v119/roth20a.html)]
+[[code](https://github.com/Confusezius/Revisiting_Deep_Metric_Learning_PyTorch)]
 
 **** <br>
 ** <br>
