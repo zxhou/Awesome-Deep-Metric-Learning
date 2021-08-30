@@ -2,6 +2,8 @@
 
 ***This repo contains most of the papers for image retrieval.***
 
+***Key Words: Image Retrieval, Metric Learning***
+
 ## Papers
 
 ### **2021**
@@ -28,6 +30,11 @@
 **Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
 [[paper](https://arxiv.org/pdf/2108.05889.pdf)]
 [[code](https://github.com/wl-zhao/DIML)]
+
+**Learning with Memory-based Virtual Classes for Deep Metric Learning** <br>
+*Byungsoo Ko, Geonmo Gu, Han-Gyu Kim* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](https://arxiv.org/pdf/2103.16940.pdf)]
 
 **** <br>
 ** <br>
