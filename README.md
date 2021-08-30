@@ -4,7 +4,7 @@
 
 ***Key Words: Image Retrieval, Metric Learning, Image Search***
 
-***Conference and Journal: CVPR, ICCV, ECCV, ICML, ICLR, NIPS, IJCAI, AAAI, TPAMI, TIP, IJCV***
+***Conference and Journal: CVPR, ICCV, ECCV, ICML, NIPS, IJCAI, AAAI, TPAMI, TIP, IJCV***
 
 ## Papers
 
@@ -182,29 +182,26 @@
 [[paper](http://proceedings.mlr.press/v119/roth20a.html)]
 [[code](https://github.com/Confusezius/Revisiting_Deep_Metric_Learning_PyTorch)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Deep Metric Learning with Spherical Embedding(NIPS-20)** <br>
+*Dingyi Zhang, Yingming Li, Zhongfei Zhang* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products, In-Shop Clothes** <br>
+[[paper](https://proceedings.neurips.cc/paper/2020/hash/d9812f756d0df06c7381945d2e2c7d4b-Abstract.html)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Symmetrical Synthesis for Deep Metric Learning
+(AAAI-20)** <br>
+*Geonmo Gu, Byungsoo Ko* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](https://ojs.aaai.org//index.php/AAAI/article/view/6716)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Deep Metric Learning with BIER: Boosting Independent Embeddings Robustly(TPAMI-20)** <br>
+*Michael Opitz, Georg Waltner, Horst Possegger, Horst Bischof* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products, In-Shop Clothes, VehicleID** <br>
+[[paper](https://ieeexplore.ieee.org/document/8395046)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Deep Adversarial Metric Learning(TIP-20)** <br>
+*Yueqi Duan, Jiwen Lu, Wenzhao Zheng, Jie Zhou* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products, In-Shop Clothes, VehicleID** <br>
+[[paper](https://ieeexplore.ieee.org/document/8883191)]
 
 **** <br>
 ** <br>
