@@ -4,6 +4,8 @@
 
 ***Key Words: Image Retrieval, Metric Learning***
 
+***Conference and Journal: CVPR, ICCV, ECCV, ICML, ICLR, TPAMI, TIP, NIPS, IJCAI, IJCV, AAAI***
+
 ## Papers
 
 ### **2021**
