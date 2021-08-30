@@ -4,7 +4,7 @@
 
 ***Key Words: Image Retrieval, Metric Learning, Image Search***
 
-***Conference and Journal: CVPR, ICCV, ECCV, ICML, ICLR, TPAMI, TIP, NIPS, IJCAI, IJCV, AAAI***
+***Conference and Journal: CVPR, ICCV, ECCV, ICML, NIPS, IJCAI, AAAI, TPAMI, TIP, IJCV***
 
 ## Papers
 
