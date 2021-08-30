@@ -31,10 +31,15 @@
 [[paper](https://arxiv.org/pdf/2108.05889.pdf)]
 [[code](https://github.com/wl-zhao/DIML)]
 
-**Learning with Memory-based Virtual Classes for Deep Metric Learning** <br>
+**Learning with Memory-based Virtual Classes for Deep Metric Learning(ICCV-21)** <br>
 *Byungsoo Ko, Geonmo Gu, Han-Gyu Kim* <br>
 **Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
 [[paper](https://arxiv.org/pdf/2103.16940.pdf)]
+
+**SLADE: A Self-Training Framework For Distance Metric Learning(CVPR-21)** <br>
+*Jiali Duan, Yen-Liang Lin, Son Tran, Larry S. Davis, C.-C. Jay Kuo* <br>
+**Datasets: CUB-200-2011, Cars196, Fashion200k** <br>
+[[paper](https://arxiv.org/pdf/2011.10269.pdf)]
 
 **** <br>
 ** <br>
@@ -98,6 +103,11 @@
 **Deep Metric Learning via Lifted Structured Feature Embedding(CVPR-16)** <br>
 *Hyun Oh Song, Yu Xiang, Stefanie Jegelka, Silvio Savarese* <br>
 [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Song_Deep_Metric_Learning_CVPR_2016_paper.pdf)]
+
+### ***Fashion200K***
+**Automatic Spatially-aware Fashion Concept Discovery(ICCV-17)** <br>
+*Xintong Han, Zuxuan Wu, Phoenix X. Huang, Xiao Zhang, Menglong Zhu, Yuan Li, Yang Zhao, Larry S. Davis* <br>
+[[paper](https://arxiv.org/pdf/1708.01311.pdf)]
 
 ### ******
 **** <br>
