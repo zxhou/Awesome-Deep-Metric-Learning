@@ -102,14 +102,14 @@
 **A Unifying Mutual Information View of Metric Learning: Cross-Entropy vs. Pairwise Losses(ECCV-20)** <br>
 *Malik Boudiaf, Jérôme Rony, Imtiaz Masud Ziko, Eric Granger, Marco Pedersoli, Pablo Piantanida, Ismail Ben Ayed* <br>
 **Datasets: CUB-200-2011, Cars196, Stanford Online Products, In-Shop Clothes** <br>
-[[paper](https://link.springer.com/chapter/10.1007%2F978-3-030-58539-6_33)]
+[[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-58539-6_33.pdf)]
 [[code](https://github.com/jeromerony/dml_cross_entropy)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**The Group Loss for Deep Metric Learning(ECCV-20)** <br>
+*Ismail Elezi,  Sebastiano Vascon, Alessandro Torcinovich, Marcello Pelillo, Laura Leal-Taixe* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-58571-6_17.pdf)]
+[[code](https://github.com/dvl-tum/group_loss)]
 
 **** <br>
 ** <br>
