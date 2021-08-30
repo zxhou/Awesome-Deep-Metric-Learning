@@ -17,11 +17,17 @@
 [[paper](https://arxiv.org/pdf/2108.10026.pdf)]
 [[code](https://github.com/zbr17/DRML)]
 
-**LoOp: Looking for Optimal Hard Negative Embeddings for Deep Metric Learning** <br>
+**LoOp: Looking for Optimal Hard Negative Embeddings for Deep Metric Learning(ICCV-21)** <br>
 *Bhavya Vasudeva, Puneesh Deora, Saumik Bhattacharya, Umapada Pal, Sukalpa Chanda* <br>
 **Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
 [[paper](https://arxiv.org/pdf/2108.09335.pdf)]
 [[code](https://github.com/puneesh00/LoOp)]
+
+**Towards Interpretable Deep Metric Learning with Structural Matching(ICCV-21)** <br>
+*Wenliang Zhao, Yongming Rao, Ziyi Wang, Jiwen Lu, Jie Zhou* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](https://arxiv.org/pdf/2108.05889.pdf)]
+[[code](https://github.com/wl-zhao/DIML)]
 
 **** <br>
 ** <br>
