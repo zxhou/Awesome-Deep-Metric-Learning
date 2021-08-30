@@ -144,35 +144,31 @@
 **Datasets: CUB-200-2011, Cars196, In-Shop Clothes** <br>
 [[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-58583-9_23.pdf)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Deep Metric Learning via Adaptive Learnable Assessment(CVPR-20)** <br>
+*Wenzhao Zheng, Jiwen Lu, Jie Zhou* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](https://ieeexplore.ieee.org/document/9157478)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Proxy Anchor Loss for Deep Metric Learning(CVPR-20)** <br>
+*Sungyeon Kim, Dongwon Kim,  Minsu Cho, Suha Kwak* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](https://ieeexplore.ieee.org/document/9156780)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning(CVPR-20)** <br>
+*Byungsoo Ko, Geonmo Gu* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](https://ieeexplore.ieee.org/document/9157127)]
+[[code](https://github.com/clovaai/embedding-expansion)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Moving in the Right Direction: A Regularization for Deep Metric Learning(CVPR-20)** <br>
+*Deen Dayal Mohan, Nishant Sankaran, Dennis Fedorishin, Srirangaraj Setlur, Venu Govindaraju* <br>
+**Datasets: CUB-200-2011, Cars196, In-Shop Clothes** <br>
+[[paper](https://ieeexplore.ieee.org/document/9157099)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Which is Plagiarism: Fashion Image Retrieval based on Regional Representation for Design Protection(CVPR-20)** <br>
+*Yining Lang, Yuan He,  Fan Yang, Jianfeng Dong,  Hui Xue* <br>
+**Datasets: DeepFashion2, Plagiarized Fashion Dataset** <br>
+[[paper](https://ieeexplore.ieee.org/document/9156520)]
 
 **** <br>
 ** <br>
@@ -338,6 +334,26 @@
 **IARPA Janus Benchmark – C: Face Dataset and Protocol(ICB-18)** <br>
 *Brianna Maze, Jocelyn Adams, James A. Duncan, Nathan Kalka, Tim Miller, Charles Otto, Anil K. Jain, W. Tyler Niggel, Janet Anderson, Jordan Cheney, Patrick Grother* <br>
 [[paper](http://biometrics.cse.msu.edu/Publications/Face/Mazeetal_IARPAJanusBenchmarkCFaceDatasetAndProtocol_ICB2018.pdf)]
+
+### ***Fashion200k***
+**Automatic Spatially-aware Fashion Concept Discovery(CVPR-17)** <br>
+*Xintong Han, Zuxuan Wu, Phoenix X. Huang, Xiao Zhang, Menglong Zhu, Yuan Li, Yang Zhao, Larry S. Davis* <br>
+[[paper](https://arxiv.org/abs/1708.01311)]
+
+### ***DeepFashion2***
+**DeepFashion2: A Versatile Benchmark for Detection, Pose Estimation, Segmentation and Re-Identification of Clothing Images(CVPR-19)** <br>
+*Yuying Ge, Ruimao Zhang, Lingyun Wu, Xiaogang Wang, Xiaoou Tang, Ping Luo* <br>
+[[paper](https://arxiv.org/abs/1901.07973)]
+
+### ******
+**** <br>
+** <br>
+[[paper]()]
+
+### ******
+**** <br>
+** <br>
+[[paper]()]
 
 ### ******
 **** <br>
