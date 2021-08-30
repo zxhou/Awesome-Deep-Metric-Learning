@@ -48,17 +48,17 @@
 **Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
 [[paper](https://arxiv.org/pdf/2103.14908.pdf)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Simultaneous Similarity-based Self-Distillation for Deep Metric Learning(ICML-21)** <br>
+*Karsten Roth, Timo Milbich, Bjorn Ommer, Joseph Paul Cohen, Marzyeh Ghassemi* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](http://proceedings.mlr.press/v139/roth21a/roth21a.pdf)]
+[[code](https://github.com/MLforHealth/S2SD)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Learning Intra-Batch Connections for Deep Metric Learning(ICML-21)** <br>
+*Jenny Seidenschwarz, Ismail Elezi,  Laura Leal-Taixe* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products, DeepFashion** <br>
+[[paper](http://proceedings.mlr.press/v139/seidenschwarz21a/seidenschwarz21a.pdf)]
+[[code](https://github.com/dvl-tum/intra_batch)]
 
 **** <br>
 ** <br>
@@ -157,6 +157,26 @@
 **Automatic Spatially-aware Fashion Concept Discovery(ICCV-17)** <br>
 *Xintong Han, Zuxuan Wu, Phoenix X. Huang, Xiao Zhang, Menglong Zhu, Yuan Li, Yang Zhao, Larry S. Davis* <br>
 [[paper](https://arxiv.org/pdf/1708.01311.pdf)]
+
+### ***DeepFashion***
+**DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations(CVPR-16)** <br>
+*Ziwei Liu, Ping Luo, Shi Qiu, Xiaogang Wang, Xiaoou Tang* <br>
+[[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf)]
+
+### ******
+**** <br>
+** <br>
+[[paper]()]
+
+### ******
+**** <br>
+** <br>
+[[paper]()]
+
+### ******
+**** <br>
+** <br>
+[[paper]()]
 
 ### ******
 **** <br>
