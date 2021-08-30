@@ -122,29 +122,27 @@
 [[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-58545-7_39.pdf)]
 [[code](https://github.com/Andrew-Brown1/Smooth_AP)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Spherical Feature Transform for Deep Metric Learning(ECCV-20)** <br>
+*Yuke Zhu, Yan Bai, Yichen Wei* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-58529-7_25.pdf)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Unifying Deep Local and Global Features for Image Search(ECCV-20)** <br>
+*Bingyi Cao, Andre Araujo, Jack Sim* <br>
+**Datasets: Google Landmarks, ROxf and RPar** <br>
+[[paper](https://arxiv.org/abs/2001.05027)]
+[[code](https://github.com/tensorflow/models/tree/master/research/delf)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**SOLAR: Second-Order Loss and Attention for Image Retrieval(ECCV-20)** <br>
+*Tony Ng, Vassileios Balntas, Yurun Tian, Krystian Mikolajczyk* <br>
+**Datasets: Google Landmarks, ROxf and RPar** <br>
+[[paper](https://arxiv.org/abs/2001.08972)]
+[[code](https://github.com/tonyngjichun/SOLAR)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**A Simple and Effective Framework for Pairwise Deep Metric Learning(ECCV-20)** <br>
+*Qi Qi, Yan Yan, Xiaoyu Wang, Tianbao Yang* <br>
+**Datasets: CUB-200-2011, Cars196, In-Shop Clothes** <br>
+[[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-58583-9_23.pdf)]
 
 **** <br>
 ** <br>
