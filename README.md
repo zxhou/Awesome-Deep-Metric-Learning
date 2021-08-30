@@ -86,17 +86,16 @@
 **Datasets: CUB-200-2011, Cars196, Stanford Online Products, In-Shop Clothes, VehicleID** <br>
 [[paper](https://ieeexplore.ieee.org/document/9035438)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Fast Local Spatial Verification for Feature-Agnostic Large-Scale Image Retrieval(TIP-21)** <br>
+*Joel Brogan, Aparna Bharati,  Daniel Moreira, Anderson Rocha, Kevin W. Bowyer, Patrick J. Flynn, Walter J. Scheirer* <br>
+**Datasets: Oxford buildings, Paris, Google Landmarks** <br>
+[[paper](https://ieeexplore.ieee.org/document/9492816)]
+[[code](https://github.com/joelb92/Local_Spatial_Retrieval)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**ACTNET: End-to-End Learning of Feature Activations and Multi-stream Aggregation for Effective Instance Image Retrieval(IJCV-21)** <br>
+*Syed Sameed Husain, Eng-Jon Ong, Miroslaw Bober* <br>
+**Datasets: Google Landmarks, ROxf and RPar** <br>
+[[paper](https://link.springer.com/article/10.1007%2Fs11263-021-01444-0)]
 
 **** <br>
 ** <br>
