@@ -83,7 +83,7 @@
 
 **Hardness-Aware Deep Metric Learning(TPAMI-21)** <br>
 *Wenzhao Zheng, Jiwen Lu, Jie Zhou* <br>
-**Datasets: CUB-200-2011, Cars196, Stanford Online Products, In-Shop Clothes** <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products, In-Shop Clothes, VehicleID** <br>
 [[paper](https://ieeexplore.ieee.org/document/9035438)]
 
 **** <br>
