@@ -17,6 +17,12 @@
 [[paper](https://arxiv.org/pdf/2108.10026.pdf)]
 [[code](https://github.com/zbr17/DRML)]
 
+**LoOp: Looking for Optimal Hard Negative Embeddings for Deep Metric Learning** <br>
+*Bhavya Vasudeva, Puneesh Deora, Saumik Bhattacharya, Umapada Pal, Sukalpa Chanda* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](https://arxiv.org/pdf/2108.09335.pdf)]
+[[code](https://github.com/puneesh00/LoOp)]
+
 **** <br>
 ** <br>
 **Datasets: ** <br>
