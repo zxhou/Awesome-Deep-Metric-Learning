@@ -2,7 +2,7 @@
 
 ***This repo contains most of the papers for image retrieval.***
 
-***Key Words: Image Retrieval, Metric Learning, Image Search***
+***Key Words: Image Retrieval, Image Search, Metric Learning***
 
 ***Conference and Journal: CVPR, ICCV, ECCV, ICML, NIPS, IJCAI, AAAI, TPAMI, TIP, IJCV***
 
@@ -43,15 +43,16 @@
 **Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
 [[paper](https://arxiv.org/pdf/2103.16940.pdf)]
 
-**SLADE: A Self-Training Framework For Distance Metric Learning(CVPR-21)** <br>
-*Jiali Duan, Yen-Liang Lin, Son Tran, Larry S. Davis, C.-C. Jay Kuo* <br>
-**Datasets: CUB-200-2011, Cars196, Fashion200k** <br>
-[[paper](https://arxiv.org/pdf/2011.10269.pdf)]
-
 **Embedding Transfer with Label Relaxation for Improved Metric Learning(CVPR-21)** <br>
 *Sungyeon Kim, Dongwon Kim, Minsu Cho, Suha Kwak* <br>
 **Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
 [[paper](https://arxiv.org/pdf/2103.14908.pdf)]
+
+**Deep Compositional Metric Learning(CVPR-21)** <br>
+*Wenzhao Zheng, Chengkun Wang,  Jiwen Lu, Jie Zhou* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Deep_Compositional_Metric_Learning_CVPR_2021_paper.pdf)]
+[[code](https://github.com/wzzheng/DCML)]
 
 **Simultaneous Similarity-based Self-Distillation for Deep Metric Learning(ICML-21)** <br>
 *Karsten Roth, Timo Milbich, Bjorn Ommer, Joseph Paul Cohen, Marzyeh Ghassemi* <br>
