@@ -198,7 +198,7 @@
 **Datasets: CUB-200-2011, Cars196, Stanford Online Products, In-Shop Clothes** <br>
 [[paper](https://proceedings.neurips.cc/paper/2020/hash/d9812f756d0df06c7381945d2e2c7d4b-Abstract.html)]
 
-**Fewer is More: A Deep Graph Metric Learning Perspective Using Fewer Proxies(NIPS)** <br>
+**Fewer is More: A Deep Graph Metric Learning Perspective Using Fewer Proxies(NIPS-20)** <br>
 *Yuehua Zhu, Muli Yang, Cheng Deng, Wei Liu* <br>
 **Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
 [[paper](https://proceedings.neurips.cc/paper/2020/hash/ce016f59ecc2366a43e1c96a4774d167-Abstract.html)]
