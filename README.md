@@ -303,52 +303,54 @@
 **Datasets: CUB-200-2011, Cars196** <br>
 [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Do_A_Theoretically_Sound_Upper_Bound_on_the_Triplet_Loss_for_CVPR_2019_paper.pdf)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**ArcFace: Additive Angular Margin Loss for Deep Face Recognition(CVPR-19)** <br>
+*Jiankang Deng, Jia Guo, Niannan Xue, Stefanos Zafeiriou* <br>
+**Datasets: LFW, YTF, CALFW, CPLFW** <br>
+[[paper](https://arxiv.org/abs/1801.07698)]
+[[code](https://github.com/deepinsight/insightface/tree/master/recognition/arcface_torch)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Guided Similarity Separation for Image Retrieval(NIPS-19)** <br>
+*Chundi Liu, Guangwei Yu, Cheng Chang, Himanshu Rai, Junwei Ma, Satya Krishna Gorti, Maksims Volkovs* <br>
+**Datasets: ROxf and RPar** <br>
+[[paper](https://proceedings.neurips.cc/paper/2019/hash/7504adad8bb96320eb3afdd4df6e1f60-Abstract.html)]
+[[code](https://github.com/layer6ai-labs/GSS)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Efficient Image Retrieval via Decoupling Diffusion into Online and Offline Processing(AAAI-19)** <br>
+*Fan Yang, Ryota Hinami, Yusuke Matsui, Steven Ly, Shinichi Satoh* <br>
+**Datasets: Oxford buildings, Paris** <br>
+[[paper](https://ojs.aaai.org//index.php/AAAI/article/view/4941)]
+[[code](https://github.com/fyang93/diffusion)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Towards Optimal Fine Grained Retrieval via Decorrelated Centralized Loss with Normalize-Scale Layer(AAAI-19)** <br>
+*Xiawu Zheng, Rongrong Ji, Xiaoshuai Sun, Baochang Zhang, Yongjian Wu, Feiyue Huang* <br>
+**Datasets: CUB-200-2011, Cars196** <br>
+[[paper](https://ojs.aaai.org//index.php/AAAI/article/view/4966)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Deep Metric Learning by Online Soft Mining and Class-Aware Attention(AAAI-19)** <br>
+*Xinshao Wang, Yang Hua, Elyor Kodirov, Guosheng Hu, Neil M. Robertson* <br>
+**Datasets: CUB-200-2011, Cars196** <br>
+[[paper](https://ojs.aaai.org//index.php/AAAI/article/view/4474)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Fine-Tuning CNN Image Retrieval with No Human Annotation(TPAMI-19)** <br>
+*Filip Radenovic, Giorgos Tolias, Ondrej Chum* <br>
+**Datasets: Oxford buildings, Paris, Holidays** <br>
+[[paper](https://ieeexplore.ieee.org/document/8382272)]
+[[code](http://cmp.felk.cvut.cz/cnnimageretrieval/)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**A Probabilistic Approach to Cross-Region Matching-Based Image Retrieval(TIP-19)** <br>
+*Zhimin Gao, Lei Wang, Luping Zhou* <br>
+**Datasets: Oxford buildings, Paris, Holidays** <br>
+[[paper](https://ieeexplore.ieee.org/document/8478170)]
+
+**Saliency Inside: Learning Attentive CNNs for Content-Based Image Retrieval(TIP-19)** <br>
+*Shikui Wei, Lixin Liao, Jia Li* <br>
+**Datasets: Paris, UKBench, Flower, CUB-200-2011** <br>
+[[paper](https://ieeexplore.ieee.org/document/8704995)]
+
+**REMAP: Multi-Layer Entropy-Guided Pooling of Dense CNN Features for Image Retrieval(TIP-19)** <br>
+*Syed Sameed Husain, Miroslaw Bober * <br>
+**Datasets: Holidays, UKBench, Oxford buildings, MPEG CDVS** <br>
+[[paper](https://ieeexplore.ieee.org/document/8720226)]
 
 **** <br>
 ** <br>
