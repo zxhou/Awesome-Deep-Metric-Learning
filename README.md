@@ -572,11 +572,6 @@
 *Hyun Oh Song, Yu Xiang, Stefanie Jegelka, Silvio Savarese* <br>
 [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Song_Deep_Metric_Learning_CVPR_2016_paper.pdf)]
 
-### ***Fashion200K***
-**Automatic Spatially-aware Fashion Concept Discovery(ICCV-17)** <br>
-*Xintong Han, Zuxuan Wu, Phoenix X. Huang, Xiao Zhang, Menglong Zhu, Yuan Li, Yang Zhao, Larry S. Davis* <br>
-[[paper](https://arxiv.org/pdf/1708.01311.pdf)]
-
 ### ***In-Shop Clothes***
 **DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations(CVPR-16)** <br>
 *Ziwei Liu, Ping Luo, Shi Qiu, Xiaogang Wang, Xiaoou Tang* <br>
@@ -602,10 +597,10 @@
 *Brianna Maze, Jocelyn Adams, James A. Duncan, Nathan Kalka, Tim Miller, Charles Otto, Anil K. Jain, W. Tyler Niggel, Janet Anderson, Jordan Cheney, Patrick Grother* <br>
 [[paper](http://biometrics.cse.msu.edu/Publications/Face/Mazeetal_IARPAJanusBenchmarkCFaceDatasetAndProtocol_ICB2018.pdf)]
 
-### ***Fashion200k***
-**Automatic Spatially-aware Fashion Concept Discovery(CVPR-17)** <br>
+### ***Fashion200K***
+**Automatic Spatially-aware Fashion Concept Discovery(ICCV-17)** <br>
 *Xintong Han, Zuxuan Wu, Phoenix X. Huang, Xiao Zhang, Menglong Zhu, Yuan Li, Yang Zhao, Larry S. Davis* <br>
-[[paper](https://arxiv.org/abs/1708.01311)]
+[[paper](https://arxiv.org/pdf/1708.01311.pdf)]
 
 ### ***DeepFashion2***
 **DeepFashion2: A Versatile Benchmark for Detection, Pose Estimation, Segmentation and Re-Identification of Clothing Images(CVPR-19)** <br>
