@@ -176,6 +176,11 @@
 **Datasets: DeepFashion2, Plagiarized Fashion Dataset** <br>
 [[paper](https://ieeexplore.ieee.org/document/9156520)]
 
+**Circle Loss: A Unified Perspective of Pair Similarity Optimization(CVPR-20)** <br>
+*Yifan Sun, Changmao Cheng, Yuhan Zhang, Chi Zhang, Liang Zheng, Zhongdao Wang, Yichen Wei* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](https://arxiv.org/abs/2002.10857)]
+
 **Distance Metric Learning with Joint Representation Diversification(ICML-20)** <br>
 *Xu Chu, Yang Lin, Yasha Wang, Xiting Wang, Hailong Yu, Xin Gao, Qi Tong* <br>
 **Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
@@ -208,12 +213,6 @@
 *Yueqi Duan, Jiwen Lu, Wenzhao Zheng, Jie Zhou* <br>
 **Datasets: CUB-200-2011, Cars196, Stanford Online Products, In-Shop Clothes, VehicleID** <br>
 [[paper](https://ieeexplore.ieee.org/document/8883191)]
-
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
 
 **** <br>
 ** <br>
