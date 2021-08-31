@@ -249,6 +249,95 @@
 [[paper](https://ieeexplore.ieee.org/document/9010047)]
 [[code](https://europe.naverlabs.com/Research/Computer-Vision/Learning-Visual-Representations/Deep-Image-Retrieval/)]
 
+**Explore-Exploit Graph Traversal for Image Retrieval(CVPR-19)** <br>
+*Cheng Chang, Guangwei Yu, Chundi Liu, Maksims Volkovs* <br>
+**Datasets: Google Landmarks, ROxf and RPar** <br>
+[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Explore-Exploit_Graph_Traversal_for_Image_Retrieval_CVPR_2019_paper.pdf)]
+[[code](https://github.com/layer6ai-labs/egt)]
+
+**Re-ranking via Metric Fusion for Object Retrieval and Person Re-identification(CVPR-19)** <br>
+*Song Bai, Peng Tang, Philip H.S. Torr, Longin Jan Latecki* <br>
+**Datasets: Holidays** <br>
+[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Bai_Re-Ranking_via_Metric_Fusion_for_Object_Retrieval_and_Person_Re-Identification_CVPR_2019_paper.pdf)]
+
+**Hardness-Aware Deep Metric Learning(CVPR-19)** <br>
+*Wenzhao Zheng, Zhaodong Chen,  Jiwen Lu, Jie Zhou* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Hardness-Aware_Deep_Metric_Learning_CVPR_2019_paper.pdf)]
+[[code](https://github.com/wzzheng/HDML)]
+
+**Divide and Conquer the Embedding Space for Metric Learning(CVPR-19)** <br>
+*Artsiom Sanakoyeu, Vadim Tschernezki, Uta Buchler, Bjorn Ommer* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products, In-Shop Clothes, VehicleID** <br>
+[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sanakoyeu_Divide_and_Conquer_the_Embedding_Space_for_Metric_Learning_CVPR_2019_paper.pdf)]
+[[code](https://bit.ly/dcesml)]
+
+**Deep Metric Learning to Rank(CVPR-19)** <br>
+*Fatih Cakir, Kun He, Xide Xia, Brian Kulis, Stan Sclaroff* <br>
+**Datasets: Stanford Online Products, In-Shop Clothes, VehicleID** <br>
+[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cakir_Deep_Metric_Learning_to_Rank_CVPR_2019_paper.pdf)]
+
+**Deep Asymmetric Metric Learning via Rich Relationship Mining(CVPR-19)** <br>
+*Xinyi Xu, Yanhua Yang, Cheng Deng, Feng Zheng* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Deep_Asymmetric_Metric_Learning_via_Rich_Relationship_Mining_CVPR_2019_paper.pdf)]
+
+**Multi-Similarity Loss with General Pair Weighting for Deep Metric Learning(CVPR-19)** <br>
+*Xun Wang, Xintong Han, Weiling Huang, Dengke Dong, Matthew R. Scott* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Multi-Similarity_Loss_With_General_Pair_Weighting_for_Deep_Metric_Learning_CVPR_2019_paper.pdf)]
+[[code](https://github.com/MalongTech/research-ms-loss)]
+
+**Ranked List Loss for Deep Metric Learning(CVPR-19)** <br>
+*Xinshao Wang, Yang Hua, Elyor Kodirov, Guosheng Hu, Romain Garnier, Neil M. Robertson* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Ranked_List_Loss_for_Deep_Metric_Learning_CVPR_2019_paper.pdf)]
+
+**Stochastic Class-based Hard Example Mining for Deep Metric Learning(CVPR-19)** <br>
+*Yumin Suh, Bohyung Han, Wonsik Kim, Kyoung Mu Lee* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products, In-Shop Clothes** <br>
+[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Suh_Stochastic_Class-Based_Hard_Example_Mining_for_Deep_Metric_Learning_CVPR_2019_paper.pdf)]
+
+**A Theoretically Sound Upper Bound on the Triplet Loss for Improving the Efficiency of Deep Distance Metric Learning(CVPR-19)** <br>
+*Thanh-Toan Do, Toan Tran, Ian Reid, Vijay Kumar, Tuan Hoang, Gustavo Carneiro* <br>
+**Datasets: CUB-200-2011, Cars196** <br>
+[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Do_A_Theoretically_Sound_Upper_Bound_on_the_Triplet_Loss_for_CVPR_2019_paper.pdf)]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
 **** <br>
 ** <br>
 **Datasets: ** <br>
