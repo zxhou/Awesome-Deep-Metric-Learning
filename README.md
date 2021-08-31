@@ -7,7 +7,7 @@
 ***Conference and Journal: CVPR, ICCV, ECCV, ICML, NIPS, IJCAI, AAAI, TPAMI, TIP, IJCV***
 
 ## Catalogue <br> 
-* [1. Papers](#papers): [2021](#2021), [2020](#2020), [2019](#2019)
+* [1. Papers](#papers): [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018)
 * [2. Datasets](#datasets)
 
 
@@ -181,6 +181,12 @@
 **Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
 [[paper](https://arxiv.org/abs/2002.10857)]
 
+**Cross-Batch Memory for Embedding Learning(CVPR-20)** <br>
+*Xun Wang, Haozhi Zhang, Weilin Huang, Matthew R. Scott* <br>
+**Datasets: Stanford Online Products, In-Shop Clothes, VehicleID** <br>
+[[paper](https://arxiv.org/pdf/1912.06798.pdf)]
+[[code](https://github.com/MalongTech/%20research-xbm)]
+
 **Distance Metric Learning with Joint Representation Diversification(ICML-20)** <br>
 *Xu Chu, Yang Lin, Yasha Wang, Xiting Wang, Hailong Yu, Xin Gao, Qi Tong* <br>
 **Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
@@ -282,6 +288,11 @@
 **Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
 [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Deep_Asymmetric_Metric_Learning_via_Rich_Relationship_Mining_CVPR_2019_paper.pdf)]
 
+**Ensemble Deep Manifold Similarity Learning using Hard Proxies(cvpr-19)** <br>
+*Nicolas Aziere, Sinisa Todorovic* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Aziere_Ensemble_Deep_Manifold_Similarity_Learning_Using_Hard_Proxies_CVPR_2019_paper.pdf)]
+
 **Multi-Similarity Loss with General Pair Weighting for Deep Metric Learning(CVPR-19)** <br>
 *Xun Wang, Xintong Han, Weiling Huang, Dengke Dong, Matthew R. Scott* <br>
 **Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
@@ -351,6 +362,126 @@
 *Syed Sameed Husain, Miroslaw Bober * <br>
 **Datasets: Holidays, UKBench, Oxford buildings, MPEG CDVS** <br>
 [[paper](https://ieeexplore.ieee.org/document/8720226)]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
 
 **** <br>
 ** <br>
