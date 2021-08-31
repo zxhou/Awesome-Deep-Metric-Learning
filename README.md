@@ -198,8 +198,13 @@
 **Datasets: CUB-200-2011, Cars196, Stanford Online Products, In-Shop Clothes** <br>
 [[paper](https://proceedings.neurips.cc/paper/2020/hash/d9812f756d0df06c7381945d2e2c7d4b-Abstract.html)]
 
-**Symmetrical Synthesis for Deep Metric Learning
-(AAAI-20)** <br>
+**Fewer is More: A Deep Graph Metric Learning Perspective Using Fewer Proxies(NIPS)** <br>
+*Yuehua Zhu, Muli Yang, Cheng Deng, Wei Liu* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](https://proceedings.neurips.cc/paper/2020/hash/ce016f59ecc2366a43e1c96a4774d167-Abstract.html)]
+[[code](https://github.com/YuehuaZhu/ProxyGML)]
+
+**Symmetrical Synthesis for Deep Metric Learning(AAAI-20)** <br>
 *Geonmo Gu, Byungsoo Ko* <br>
 **Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
 [[paper](https://ojs.aaai.org//index.php/AAAI/article/view/6716)]
