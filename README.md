@@ -7,7 +7,7 @@
 ***Conference and Journal: CVPR, ICCV, ECCV, ICML, NIPS, IJCAI, AAAI, TPAMI, TIP, IJCV***
 
 ## Catalogue <br> 
-* [1. Papers](#papers): [2021](#2021), [2020](#2020)
+* [1. Papers](#papers): [2021](#2021), [2020](#2020), [2019](#2019)
 * [2. Datasets](#datasets)
 
 
@@ -218,6 +218,42 @@
 *Yueqi Duan, Jiwen Lu, Wenzhao Zheng, Jie Zhou* <br>
 **Datasets: CUB-200-2011, Cars196, Stanford Online Products, In-Shop Clothes, VehicleID** <br>
 [[paper](https://ieeexplore.ieee.org/document/8883191)]
+
+### **2019**
+
+**SoftTriple Loss: Deep Metric Learning Without Triplet Sampling(ICCV-19)** <br>
+*Qi Qian, Lei Shang, Baigui Sun, Juhua Hu, Hao Li, Rong Jin* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](https://ieeexplore.ieee.org/document/9008816)]
+
+**Deep Metric Learning with Tuplet Margin Loss(ICCV-19)** <br>
+*Baosheng Yu, Dacheng Tao* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](https://ieeexplore.ieee.org/document/9010708)]
+
+**Metric Learning With HORDE: High-Order Regularizer for Deep Embeddings(ICCV-19)** <br>
+*Pierre Jacob, David Picard,  Aymeric Histace, Edouard Klein* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products, In-Shop Clothes** <br>
+[[paper](https://ieeexplore.ieee.org/document/9010751)]
+[[code](https://github.com/pierre-jacob/ICCV2019-Horde)]
+
+**MIC: Mining Interclass Characteristics for Improved Metric Learning(ICCV-19)** <br>
+*Karsten Roth, Biagio Brattoli, Bjorn Ommer* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products, In-Shop Clothes, VehicleID** <br>
+[[paper](https://ieeexplore.ieee.org/document/9010968)]
+[[code](https://github.com/Confusezius/ICCV2019_MIC)]
+
+**Learning with Average Precision: Training Image Retrieval with a Listwise Loss(ICCV-19)** <br>
+*Jerome Revaud, Jon Almazan, Rafael S. Rezende,  Cesar Roberto de Souza* <br>
+**Datasets: Landmarks, Roxf and Rpar** <br>
+[[paper](https://ieeexplore.ieee.org/document/9010047)]
+[[code](https://europe.naverlabs.com/Research/Computer-Vision/Learning-Visual-Representations/Deep-Image-Retrieval/)]
+
+**** <br>
+** <br>
+**Datasets: ** <br>
+[[paper]()]
+[[code]()]
 
 **** <br>
 ** <br>
