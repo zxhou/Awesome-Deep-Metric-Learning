@@ -7,7 +7,7 @@
 ***Conference and Journal: CVPR, ICCV, ECCV, ICML, NIPS, IJCAI, AAAI, TPAMI, TIP, IJCV***
 
 ## Catalogue <br> 
-* [1. Papers](#papers): [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018)
+* [1. Papers](#papers): [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016)
 * [2. Datasets](#datasets)
 
 
@@ -416,7 +416,73 @@
 **Datasets: UKBench, Holidays** <br>
 [[paper](https://ieeexplore.ieee.org/document/8374946)]
 
-**** <br>
+### **2017**
+
+**No Fuss Distance Metric Learning using Proxies(ICCV-17)** <br>
+*Yair Movshovitz-Attias, Alexander Toshev, Thomas K. Leung, Sergey Ioffe, Saurabh Singh* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](https://ieeexplore.ieee.org/document/8237309)]
+
+**Deep Metric Learning with Angular Loss(ICCV-17)** <br>
+*Jian Wang, Feng Zhou, Shilei Wen, Xiao Liu and Yuanqing Lin* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](https://ieeexplore.ieee.org/document/8237545)]
+
+**Smart Mining for Deep Metric Learning(ICCV-17)** <br>
+*Ben Harwood, Vijay Kumar B G, Gustavo Carneiro, Ian Reid, Tom Drummond* <br>
+**Datasets: CUB-200-2011** <br>
+[[paper](https://ieeexplore.ieee.org/document/8237569)]
+
+**Large-Scale Image Retrieval with Attentive Deep Local Features(ICCV-17)** <br>
+*Hyeonwoo Noh, Andre Araujo, Jack Sim, Tobias Weyand, Bohyung Han* <br>
+**Datasets: landmarks** <br>
+[[paper](https://ieeexplore.ieee.org/document/8237636)]
+
+**Deep Metric Learning via Facility Location(CVPR-17)** <br>
+*Hyun Oh Song, Stefanie Jegelka, Vivek Rathod, and Kevin Murphy* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](https://ieeexplore.ieee.org/document/8099720)]
+
+**Efficient Diffusion on Region Manifolds: Recovering Small Objects with Compact CNN Representations(CVPR-17)** <br>
+*Ahmet Iscen, Giorgos Tolias, Yannis Avrithis, Teddy Furon, Ondrej Chum* <br>
+**Datasets: Oxford Buildings, Paris, Instre** <br>
+[[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Iscen_Efficient_Diffusion_on_CVPR_2017_paper.pdf)]
+
+**Selective convolutional descriptor aggregation for fine-grained image retrieval(TIP-17)** <br>
+*Xiu-Shen Wei, Jian-Hao Luo, Jianxin Wu, Zhi-Hua Zhou* <br>
+**Datasets: CUB-200-2011, Cars196, Holidays, Oxford buildings** <br>
+[[paper](https://arxiv.org/pdf/1604.04994.pdf)]
+
+### **2016**
+
+**Cross-Dimensional Weighting for Aggregated Deep Convolutional Features(ECCV-16)** <br>
+*Yannis Kalantidis, Clayton Mellina, Simon Osindero* <br>
+**Datasets: Oxford Buildings, Paris** <br>
+[[paper](https://link.springer.com/chapter/10.1007/978-3-319-46604-0_48)]
+[[code](https://github.com/yahoo/crow)]
+
+**Deep Image Retrieval: Learning Global Representations for Image Search(ECCV-16)** <br>
+*Albert Gordo, Jon Almazan, Jerome Revaud, Diane Larlus* <br>
+**Datasets: Oxford Buildings, Paris, Holidays** <br>
+[[paper](https://link.springer.com/chapter/10.1007/978-3-319-46466-4_15)]
+
+**Deep Metric Learning via Lifted Structured Feature Embedding(CVPR-16)** <br>
+*Hyun Oh Song, Yu Xiang, Stefanie Jegelka, Silvio Savarese* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Song_Deep_Metric_Learning_CVPR_2016_paper.pdf)]
+[[code](https://github.com/rksltnl/%20Deep-Metric-Learning-CVPR16)]
+
+**Faster R-CNN Features for Instance Search(CVPRW-16)** <br>
+*Amaia Salvador, Xavier Giro-i-Nieto, Ferran Marques, Shinichi Satoh* <br>
+**Datasets: Oxford Buildings, Paris** <br>
+[[paper](https://www.cv-foundation.org//openaccess/content_cvpr_2016_workshops/w12/papers/Salvador_Faster_R-CNN_Features_CVPR_2016_paper.pdf)]
+
+**Improved Deep Metric Learning with Multi-class N-pair Loss Objective(NIPS-16)** <br>
+*Kihyuk Sohn* <br>
+**Datasets: Car-333, Flower-610** <br>
+[[paper](https://papers.nips.cc/paper/2016/hash/6b180037abbebea991d8b1232f8a8ca9-Abstract.html)]
+
+<!-- **** <br>
 ** <br>
 **Datasets: ** <br>
 [[paper]()]
@@ -426,79 +492,7 @@
 ** <br>
 **Datasets: ** <br>
 [[paper]()]
-[[code]()]
-
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
-
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
-
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
-
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
-
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
-
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
-
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
-
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
-
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
-
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
-
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
-
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+[[code]()] -->
 
 ## Datasets
 
@@ -592,7 +586,7 @@
 *Yuying Ge, Ruimao Zhang, Lingyun Wu, Xiaogang Wang, Xiaoou Tang, Ping Luo* <br>
 [[paper](https://arxiv.org/abs/1901.07973)]
 
-### ******
+<!-- ### ******
 **** <br>
 ** <br>
 [[paper]()]
@@ -620,4 +614,4 @@
 ### ******
 **** <br>
 ** <br>
-[[paper]()]
+[[paper]()] -->
