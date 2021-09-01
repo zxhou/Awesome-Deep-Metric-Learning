@@ -365,71 +365,56 @@
 
 ### **2018**
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Attention-Based Ensemble for Deep Metric Learning(ECCV-18)** <br>
+*Wonsik Kim, Bhavya Goyal, Kunal Chawla, Jungmin Lee, Keunjoo Kwon* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products, In-Shop Clothes** <br>
+[[paper](https://link.springer.com/chapter/10.1007%2F978-3-030-01246-5_45)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Deep Metric Learning with Hierarchical Triplet Loss(ECCV-18)** <br>
+*Weifeng Ge, Weilin Huang, Dengke Dong, Matthew R. Scott* <br>
+**Datasets: CUB-200-2011, In-Shop Clothes** <br>
+[[paper](https://link.springer.com/chapter/10.1007%2F978-3-030-01231-1_17)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Deep Variational Metric Learning(ECCV-18)** <br>
+*Xudong Lin, Yueqi Duan, Qiyuan Dong, Jiwen Lu, and Jie Zhou* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](https://link.springer.com/chapter/10.1007%2F978-3-030-01267-0_42)]
+[[code](https://github.com/XudongLinthu)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Deep Randomized Ensembles for Metric Learning(ECCV-18)** <br>
+*Hong Xuan, Richard Souvenir,  Robert Pless* <br>
+**Datasets: CUB-200-2011, Cars196, In-Shop Clothes, VehicleID** <br>
+[[paper](https://link.springer.com/chapter/10.1007%2F978-3-030-01270-0_44)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Mining on Manifolds: Metric Learning without Labels(CVPR-18)** <br>
+*Ahmet Iscen, Giorgos Tolias, Yannis Avrithis, Ondřej Chum* <br>
+**Datasets: CUB200-2011, Oxford buildings, Paris, Holidays, Instre** <br>
+[[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Iscen_Mining_on_Manifolds_CVPR_2018_paper.html)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Deep Adversarial Metric Learning(CVPR-18)** <br>
+*Yueqi Duan, Wenzhao Zheng, Xudong Lin, Jiwen Lu, Jie Zhou* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
+[[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Duan_Deep_Adversarial_Metric_CVPR_2018_paper.html)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Local Descriptors Optimized for Average Precision(CVPR-18)** <br>
+*Kun He, Yan Lu, Stan Sclaroff* <br>
+**Datasets: UBC Phototour, HPatches, RomePatches** <br>
+[[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/He_Local_Descriptors_Optimized_CVPR_2018_paper.html)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Collaborative Index Embedding for Image Retrieval(TPAMI-18)** <br>
+*Wengang Zhou, Houqiang Li, Jian Sun, Qi Tian* <br>
+**Datasets: UKBench, Holidays** <br>
+[[paper](https://ieeexplore.ieee.org/document/7867860)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Dynamic Match Kernel With Deep Convolutional Features for Image Retrieval(TIP-18)** <br>
+*Jufeng Yang, Jie Liang, Hui Shen, Kai Wang, Paul L. Rosin, Ming-Hsuan Yang* <br>
+**Datasets: Oxford buildings, Paris, Holidays, UKBench** <br>
+[[paper](https://ieeexplore.ieee.org/abstract/document/8374838)]
 
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
-
-**** <br>
-** <br>
-**Datasets: ** <br>
-[[paper]()]
-[[code]()]
+**Retrieval Oriented Deep Feature Learning With Complementary Supervision Mining(TIP-18)** <br>
+*Yue Lv, Wengang Zhou, Qi Tian, Shaoyan Sun, Houqiang Li* <br>
+**Datasets: UKBench, Holidays** <br>
+[[paper](https://ieeexplore.ieee.org/document/8374946)]
 
 **** <br>
 ** <br>
