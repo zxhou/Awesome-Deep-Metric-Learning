@@ -288,7 +288,7 @@
 **Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
 [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Deep_Asymmetric_Metric_Learning_via_Rich_Relationship_Mining_CVPR_2019_paper.pdf)]
 
-**Ensemble Deep Manifold Similarity Learning using Hard Proxies(cvpr-19)** <br>
+**Ensemble Deep Manifold Similarity Learning using Hard Proxies(CVPR-19)** <br>
 *Nicolas Aziere, Sinisa Todorovic* <br>
 **Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
 [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Aziere_Ensemble_Deep_Manifold_Similarity_Learning_Using_Hard_Proxies_CVPR_2019_paper.pdf)]
