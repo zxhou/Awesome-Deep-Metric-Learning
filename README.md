@@ -92,6 +92,12 @@
 **Datasets: CUB-200-2011, Cars196, Stanford Online Products, In-Shop Clothes, VehicleID** <br>
 [[paper](https://ieeexplore.ieee.org/document/9035438)]
 
+**Improving Deep Metric Learning by Divide and Conquer(TPAMI-21)** <br>
+*Artsiom Sanakoyeu, Pingchuan Ma, Vadim Tschernezki, Björn Ommer* <br>
+**Datasets: CUB-200-2011, Cars196, Stanford Online Products, In-Shop Clothes, VehicleID** <br>
+[[paper](https://arxiv.org/abs/2109.04003)]
+[[code](https://github.com/CompVis/metric-learning-divide-and-conquer-improved)]
+
 **Fast Local Spatial Verification for Feature-Agnostic Large-Scale Image Retrieval(TIP-21)** <br>
 *Joel Brogan, Aparna Bharati,  Daniel Moreira, Anderson Rocha, Kevin W. Bowyer, Patrick J. Flynn, Walter J. Scheirer* <br>
 **Datasets: Oxford buildings, Paris, Google Landmarks** <br>
