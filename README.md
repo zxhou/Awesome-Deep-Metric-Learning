@@ -172,6 +172,12 @@
 [[paper](https://ieeexplore.ieee.org/document/9157127)]
 [[code](https://github.com/clovaai/embedding-expansion)]
 
+**Cross-Batch Memory for Embedding Learning(CVPR-20)** <br>
+*Xun Wang, Haozhi Zhang, Weilin Huang, Matthew R. Scott* <br>
+**Datasets: Stanford Online Products, In-Shop Clothes, VehicleID** <br>
+[[paper](https://arxiv.org/abs/1912.06798)]
+[[code](https://github.com/msight-tech/research-xbm)]
+
 **Moving in the Right Direction: A Regularization for Deep Metric Learning(CVPR-20)** <br>
 *Deen Dayal Mohan, Nishant Sankaran, Dennis Fedorishin, Srirangaraj Setlur, Venu Govindaraju* <br>
 **Datasets: CUB-200-2011, Cars196, In-Shop Clothes** <br>
