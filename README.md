@@ -54,6 +54,12 @@
 [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Deep_Compositional_Metric_Learning_CVPR_2021_paper.pdf)]
 [[code](https://github.com/wzzheng/DCML)]
 
+**Unsupervised Feature Learning by Cross-Level Instance-Group Discrimination(CVPR-21)** <br>
+*Xudong Wang, Ziwei Liu, Stella X. Yu* <br>
+**Datasets: ImageNet** <br>
+[[paper](https://arxiv.org/abs/2008.03813)]
+[[code](https://github.com/frank-xwang/CLD-UnsupervisedLearning)]
+
 **Simultaneous Similarity-based Self-Distillation for Deep Metric Learning(ICML-21)** <br>
 *Karsten Roth, Timo Milbich, Bjorn Ommer, Joseph Paul Cohen, Marzyeh Ghassemi* <br>
 **Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
@@ -108,6 +114,18 @@
 *Syed Sameed Husain, Eng-Jon Ong, Miroslaw Bober* <br>
 **Datasets: Google Landmarks, ROxf and RPar** <br>
 [[paper](https://link.springer.com/article/10.1007%2Fs11263-021-01444-0)]
+
+**Prototypical Contrastive Learning of Unsupervised Representations(ICLR-21)** <br>
+*Junnan Li, Pan Zhou, Caiming Xiong, Steven C.H. Hoi* <br>
+**Datasets: ImageNet** <br>
+[[paper](https://arxiv.org/abs/2005.04966)]
+[[code](https://github.com/salesforce/PCL)]
+
+**Active Contrastive Learning of Audio-Visual Video Representations(ICLR-21)** <br>
+*Shuang Ma, Zhaoyang Zeng, Daniel McDuff, Yale Song* <br>
+**Datasets: UCF101, HMDB51, ESC50** <br>
+[[paper](https://arxiv.org/abs/2009.09805)]
+[[code](https://github.com/yunyikristy/CM-ACC)]
 
 ### **2020**
 
@@ -221,6 +239,12 @@
 **Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
 [[paper](https://proceedings.neurips.cc/paper/2020/hash/ce016f59ecc2366a43e1c96a4774d167-Abstract.html)]
 [[code](https://github.com/YuehuaZhu/ProxyGML)]
+
+**Unsupervised Learning of Visual Features by Contrasting Cluster Assignments(NIPS-20)** <br>
+*Mathilde Caron, Ishan Misra, Julien Mairal, Priya Goyal, Piotr Bojanowski, Armand Joulin* <br>
+**Datasets: ImageNet** <br>
+[[paper](https://arxiv.org/abs/2006.09882)]
+[[code](https://github.com/facebookresearch/swav)]
 
 **Symmetrical Synthesis for Deep Metric Learning(AAAI-20)** <br>
 *Geonmo Gu, Byungsoo Ko* <br>
