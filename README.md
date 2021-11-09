@@ -211,12 +211,6 @@
 **Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
 [[paper](https://arxiv.org/abs/2002.10857)]
 
-**Cross-Batch Memory for Embedding Learning(CVPR-20)** <br>
-*Xun Wang, Haozhi Zhang, Weilin Huang, Matthew R. Scott* <br>
-**Datasets: Stanford Online Products, In-Shop Clothes, VehicleID** <br>
-[[paper](https://arxiv.org/pdf/1912.06798.pdf)]
-[[code](https://github.com/MalongTech/%20research-xbm)]
-
 **Distance Metric Learning with Joint Representation Diversification(ICML-20)** <br>
 *Xu Chu, Yang Lin, Yasha Wang, Xiting Wang, Hailong Yu, Xin Gao, Qi Tong* <br>
 **Datasets: CUB-200-2011, Cars196, Stanford Online Products** <br>
