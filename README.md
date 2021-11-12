@@ -93,6 +93,10 @@
 **Datasets: CUB-200-2011, Cars196, Stanford Online Products, In-Shop Clothes** <br>
 [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16277)]
 
+**Fine-Grained Image Analysis with Deep Learning: A Survey(TPAMI-21)** <br>
+*Xiu-Shen Wei, Yi-Zhe Song, Oisin Mac Aodha, Jianxin Wu, Yuxin Peng, Jinhui Tang, Jian Yang, Serge Belongie* <br>
+[[paper](https://arxiv.org/abs/2111.06119)]
+
 **Hardness-Aware Deep Metric Learning(TPAMI-21)** <br>
 *Wenzhao Zheng, Jiwen Lu, Jie Zhou* <br>
 **Datasets: CUB-200-2011, Cars196, Stanford Online Products, In-Shop Clothes, VehicleID** <br>
