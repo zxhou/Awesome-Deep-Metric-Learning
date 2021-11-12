@@ -1,6 +1,6 @@
 # Awesome Image Retrieval
 
-***This repo contains most of the papers for image retrieval, mainly about landmarks retrieval(Roxf and Rpar) and deep metric learning(CUB-200-2011, Cars196, Stanford Online Products), without quantization, cross-modal, video, unsupervised and so on.***
+***This repo contains most of the papers for image retrieval, mainly about landmarks retrieval(Roxf and Rpar) and deep metric learning(CUB-200-2011, Cars196, Stanford Online Products), barely quantization, cross-modal, video, unsupervised and so on.***
 
 ***Key Words: Image Retrieval, Image Search, Metric Learning***
 
