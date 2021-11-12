@@ -110,6 +110,12 @@
 [[paper](https://ieeexplore.ieee.org/document/9492816)]
 [[code](https://github.com/joelb92/Local_Spatial_Retrieval)]
 
+**Visual Explanation for Deep Metric Learning(TIP-21)** <br>
+*Sijie Zhu, Taojiannan Yang,  Chen Chen* <br>
+**Datasets: CUB** <br>
+[[paper](https://ieeexplore.ieee.org/document/9527069)]
+[[code](https://github.com/Jeff-Zilence/Explain_Metric_Learning)]
+
 **ACTNET: End-to-End Learning of Feature Activations and Multi-stream Aggregation for Effective Instance Image Retrieval(IJCV-21)** <br>
 *Syed Sameed Husain, Eng-Jon Ong, Miroslaw Bober* <br>
 **Datasets: Google Landmarks, ROxf and RPar** <br>
